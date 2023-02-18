@@ -2,7 +2,7 @@ from random import randint
 
 
 
-
+dtreyrty
 
 
 class Dot:
